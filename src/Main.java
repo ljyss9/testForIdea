@@ -7,7 +7,5 @@ public class Main {
         }
         System.out.println("changes");
 
-        //new change
-        //differ
     }
 }
